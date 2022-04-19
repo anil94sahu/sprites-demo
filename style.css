@@ -1,0 +1,19 @@
+.bg-facebook {
+    width: 225px; height: 225px;
+    background: url('css_sprites.png') -10px -234px;
+}
+
+.bg-insta {
+    width: 269px; height: 187px;
+    background: url('css_sprites.png') -278px -10px;
+}
+
+.bg-twitter {
+    width: 248px; height: 204px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+.bg-real{
+    background: url('css_sprites.png') no-repeat
+}
+
